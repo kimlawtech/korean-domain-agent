@@ -1,0 +1,12 @@
+{
+  "부산지방법원":          { "nearest_station": "부산",     "avg_min_to_court": 25 },
+  "부산지방법원 동부지원": { "nearest_station": "부산",     "avg_min_to_court": 35 },
+  "대구지방법원":          { "nearest_station": "동대구",   "avg_min_to_court": 20 },
+  "광주지방법원":          { "nearest_station": "광주송정", "avg_min_to_court": 25 },
+  "대전지방법원":          { "nearest_station": "대전",     "avg_min_to_court": 15 },
+  "울산지방법원":          { "nearest_station": "울산",     "avg_min_to_court": 30 },
+  "수원지방법원":          { "nearest_station": "수원",     "avg_min_to_court": 15 },
+  "춘천지방법원":          { "nearest_station": "춘천",     "avg_min_to_court": 20 },
+  "전주지방법원":          { "nearest_station": "전주",     "avg_min_to_court": 25 },
+  "제주지방법원":          { "nearest_station": "(제주공항)", "avg_min_to_court": 30 }
+}
